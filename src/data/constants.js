@@ -2,10 +2,10 @@ export const Bio = {
   name: "Sumit Parmar",
   roles: ["Software Engineer", "Data Analyst", "Java Developer", "Business Analyst"],
   description:
-    "I'm a Software Developer with over 2+ years of experience in building robust backend systems and scalable web applications. Proficient in Java, Spring Boot, and MySQL, I specialize in API integration, data security, and performance optimization to deliver reliable and efficient solutions.",
+    "I'm a Software Developer with over 3+ years of experience in building robust backend systems and scalable web applications. Proficient in Java, Spring Boot, and MySQL, I specialize in API integration, data security, and performance optimization to deliver reliable and efficient solutions.",
   github: "https://github.com/Sumitbittu",
   resume:
-    "https://drive.google.com/file/d/1MEC-xJdzlsTKCRl9izmiwtnSei0F97n5/view?usp=sharing",
+    "https://drive.google.com/file/d/1mXyR1WcgeRMP5HNffkanNLsxD2tF4Hsh/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/sumit-parmar-165b801a2/",
   twitter: "https://www.linkedin.com/in/sumit-parmar-165b801a2/",
   insta: "https://www.linkedin.com/in/sumit-parmar-165b801a2/",
@@ -125,7 +125,7 @@ export const experiences = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqJpgQxCXa_ut0bLFycTpPzoQXnYvgedz1Lg&s",
     role: "Analyst Software Engineer",
     company: "Accenture",
-    date: "March 2023 - February 2024",
+    date: "March 2023 - February 2025",
     desc: "Led the development of highly scalable backend systems using Java and Python. Managed databases with MySQL and deployed services on AWS for cloud scalability. Integrated APIs and focused on Data Security to ensure safe and efficient data flow. Optimized performance through advanced techniques, significantly improving the system's overall throughput and efficiency.",
     skills: [
       "Java",
