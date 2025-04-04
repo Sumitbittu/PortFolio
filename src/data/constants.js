@@ -5,7 +5,7 @@ export const Bio = {
     "I'm a Software Developer with over 3+ years of experience in building robust backend systems and scalable web applications. Proficient in Java, Spring Boot, and MySQL, I specialize in API integration, data security, and performance optimization to deliver reliable and efficient solutions.",
   github: "https://github.com/Sumitbittu",
   resume:
-    "https://drive.google.com/file/d/1mXyR1WcgeRMP5HNffkanNLsxD2tF4Hsh/view?usp=drive_link",
+    "https://drive.google.com/file/d/1qGGv-8-rdC9SGm2Mku9vHU_EE84ggjzk/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/sumit-parmar-165b801a2/",
   twitter: "https://www.linkedin.com/in/sumit-parmar-165b801a2/",
   insta: "https://www.linkedin.com/in/sumit-parmar-165b801a2/",
